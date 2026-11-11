@@ -1,0 +1,40 @@
+{
+  "name": "Adspirer Retail Ads",
+  "key": "adspirer-retail-ads",
+  "host": "perplexity",
+  "version": "1.0.0",
+  "description": "Amazon & Walmart retail advertising. Analyze ad performance, track ACoS and ROAS, research keywords, and create and optimize campaigns with your approval.",
+  "mcp": {
+    "url": "https://mcp.adspirer.com/retail-ads",
+    "transport": "streamable-http",
+    "auth": "oauth2 (browser sign-in, PKCE)"
+  },
+  "readOnly": false,
+  "category": "Marketing / Ecommerce",
+  "platforms": "Amazon Ads and Walmart Connect",
+  "logo": "https://storage.googleapis.com/adspirer-images-v1/brand/adspirer-logo-square.png",
+  "homepage": "https://www.adspirer.com/retail-media",
+  "support": "support@adspirer.com",
+  "docs": "https://www.adspirer.com/docs",
+  "privacy": "https://www.adspirer.com/privacy",
+  "terms": "https://www.adspirer.com/terms",
+  "connections": "https://adspirer.ai/connections",
+  "skills": [
+    "adspirer-retail-ads-ad-creative",
+    "adspirer-retail-ads-amazon",
+    "adspirer-retail-ads-campaign-launch",
+    "adspirer-retail-ads-keyword-research",
+    "adspirer-retail-ads-optimization",
+    "adspirer-retail-ads-performance",
+    "adspirer-retail-ads-product-help",
+    "adspirer-retail-ads-setup",
+    "adspirer-retail-ads-strategy",
+    "adspirer-retail-ads-tools",
+    "adspirer-retail-ads-walmart"
+  ],
+  "toolsSkill": "adspirer-retail-ads-tools",
+  "derivedFrom": {
+    "repository": "https://github.com/Adspirer/adspirer-retail-ads-cursor-plugin",
+    "version": "1.0.2"
+  }
+}
