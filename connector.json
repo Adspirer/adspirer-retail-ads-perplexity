@@ -2,7 +2,7 @@
   "name": "Adspirer Retail Ads",
   "key": "adspirer-retail-ads",
   "host": "perplexity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon & Walmart retail advertising. Analyze ad performance, track ACoS and ROAS, research keywords, and create and optimize campaigns with your approval.",
   "mcp": {
     "url": "https://mcp.adspirer.com/retail-ads",
